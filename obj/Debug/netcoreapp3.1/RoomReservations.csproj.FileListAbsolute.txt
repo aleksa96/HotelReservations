@@ -1,0 +1,13 @@
+/home/aleksa/Desktop/RoomReservations/bin/Debug/netcoreapp3.1/RoomReservations
+/home/aleksa/Desktop/RoomReservations/bin/Debug/netcoreapp3.1/RoomReservations.deps.json
+/home/aleksa/Desktop/RoomReservations/bin/Debug/netcoreapp3.1/RoomReservations.runtimeconfig.json
+/home/aleksa/Desktop/RoomReservations/bin/Debug/netcoreapp3.1/RoomReservations.runtimeconfig.dev.json
+/home/aleksa/Desktop/RoomReservations/bin/Debug/netcoreapp3.1/RoomReservations.dll
+/home/aleksa/Desktop/RoomReservations/bin/Debug/netcoreapp3.1/RoomReservations.pdb
+/home/aleksa/Desktop/RoomReservations/obj/Debug/netcoreapp3.1/RoomReservations.csprojAssemblyReference.cache
+/home/aleksa/Desktop/RoomReservations/obj/Debug/netcoreapp3.1/RoomReservations.AssemblyInfoInputs.cache
+/home/aleksa/Desktop/RoomReservations/obj/Debug/netcoreapp3.1/RoomReservations.AssemblyInfo.cs
+/home/aleksa/Desktop/RoomReservations/obj/Debug/netcoreapp3.1/RoomReservations.csproj.CoreCompileInputs.cache
+/home/aleksa/Desktop/RoomReservations/obj/Debug/netcoreapp3.1/RoomReservations.dll
+/home/aleksa/Desktop/RoomReservations/obj/Debug/netcoreapp3.1/RoomReservations.pdb
+/home/aleksa/Desktop/RoomReservations/obj/Debug/netcoreapp3.1/RoomReservations.genruntimeconfig.cache

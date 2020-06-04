@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OP3lTAKXJAPvf6v/NApw/Ab6jvsSaYx0JjhM5RcehYvpdKrKoTMoC8t/407yHbQy0+S83TGENfEohH1DWRfUZw==",
+  "success": true,
+  "projectFilePath": "/home/aleksa/Desktop/RoomReservations/RoomReservations.csproj",
+  "expectedPackageFiles": [
+    "/home/aleksa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
